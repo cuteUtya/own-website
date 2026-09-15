@@ -1,0 +1,14 @@
+{"timestamp":"00:00:00.660","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:03.673","source":"Server","level":"LOG","message":"○ Compiling / ..."}
+{"timestamp":"00:00:04.630","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:04.729","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:07:01.029","source":"Server","level":"ERROR","message":"⨯ ReferenceError: Image is not defined"}
+{"timestamp":"00:07:01.040","source":"Server","level":"ERROR","message":"⨯ ReferenceError: Image is not defined"}
+{"timestamp":"00:07:01.115","source":"Browser","level":"ERROR","message":"Uncaught ReferenceError: Image is not defined"}
+{"timestamp":"00:07:01.115","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught ReferenceError: Image is not defined\\u001b[39m\""}
+{"timestamp":"00:07:01.879","source":"Server","level":"WARN","message":"⚠ Fast Refresh had to perform a full reload due to a runtime error."}
+{"timestamp":"00:07:15.190","source":"Server","level":"LOG","message":"✓ Compiled in 65ms"}
+{"timestamp":"00:07:17.914","source":"Server","level":"LOG","message":"✓ Compiled in 28ms"}
+{"timestamp":"00:07:25.031","source":"Server","level":"LOG","message":"✓ Compiled in 37ms"}
+{"timestamp":"00:08:42.048","source":"Server","level":"LOG","message":"✓ Compiled in 49ms"}
+{"timestamp":"00:10:01.567","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
