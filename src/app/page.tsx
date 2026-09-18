@@ -308,7 +308,7 @@ export default function Home() {
               <div><dt>Chamber membership</dt><dd>Mitglied der Wirtschaftskammer Wien (Fachgruppe Unternehmensberatung, Buchhaltung und Informationstechnologie – UBIT)</dd></div>
               <div><dt>Gewerbewortlaut</dt><dd>Dienstleistungen in der automatischen Datenverarbeitung und Informationstechnik</dd></div>
               <div><dt>GISA-Zahl</dt><dd>40118185</dd></div>
-              <div><dt>UID / Steuernummer</dt><dd>In Aufstellung (Pending issuance by Finanzamt Österreich)</dd></div>
+              <div><dt>UID</dt><dd>ATU83622108</dd></div>
               <div><dt>Applicable legislation</dt><dd>Gewerbeordnung, available at <a href="https://www.ris.bka.gv.at/" target="_blank" rel="noreferrer">ris.bka.gv.at</a></dd></div>
               <div><dt>Supervisory authority</dt><dd>Magistratisches Bezirksamt des XVIII. Bezirkes</dd></div>
             </dl>
